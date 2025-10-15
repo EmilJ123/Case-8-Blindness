@@ -121,7 +121,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _IntersectionColor: 0
-    - _IntersectionDepth: 1.03
+    - _IntersectionDepth: 2.1
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
